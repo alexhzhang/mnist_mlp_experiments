@@ -134,7 +134,7 @@ google-colab (optional)
 Upload the MNIST CSV files and run the script:
 
 ```python
-python mnist_mlp_experiments.py
+python mnist_mlp_experiments.ipynb
 ```
 
 In Google Colab, the upload widget appears automatically.
