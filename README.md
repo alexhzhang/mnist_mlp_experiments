@@ -1,5 +1,5 @@
 
-````markdown
+
 # MNIST MLP Experiments (Scikit-Learn)
 
 This project trains multiple Multi-Layer Perceptron (MLP) neural networks on the MNIST handwritten digit dataset in CSV format. The goal is to compare different activation functions, optimizers, learning rates, and hidden-layer sizes to understand how each affects model performance and training behavior.
